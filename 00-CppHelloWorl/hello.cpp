@@ -1,10 +1,9 @@
 /* Hello, World!
 * NAL
-* 20210420
+* 20220420
 */
 #include <iostream>
 using namespace std;
 int main() {
-    std::cout << "Hello, World! I am Skynet\n";
-    
+    std::cout << "Hello, World!\n";
 }
