@@ -1,2 +1,2 @@
-PS D:\GDrive\01_Estudio\UTN\Ing. Sistemas\1° Año\Algoritmos y Estructura de Datos\TPs\Hola Mundo> ./hello.exe
-Hello, World! I am Skynet
+PS C:\Users\Nicolas\Desktop\AED\TPs\Hola Mundo> ./hello.exe
+Hello, World!
