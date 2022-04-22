@@ -1,2 +1,1 @@
-PS C:\Users\Nicolas\Desktop\AED\TPs\Hola Mundo> ./hello.exe
 Hello, World!
