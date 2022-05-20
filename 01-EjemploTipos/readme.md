@@ -11,3 +11,6 @@ vistos en clases.*
 - *int*
 - *double*
 - *string*
+
+### **Descripción del Programa:**
+Mediante el uso de assert se probará la validez de diversas operaciones realizadas sobre los diferentes tipos de datos vistos en clase.
